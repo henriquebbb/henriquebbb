@@ -3,7 +3,6 @@
 - 💻 Me aprofundando no estudo de Java, HTML5 entre outros. 
 - 🎓 Engenheiro de computação em formação.
 - 📫 E-mail: emanoelhenrique200200@gmail.com
- ##
   
 <div style="display: inline_block" align="center">
   <a href="https://github.com/henriquebbb">
