@@ -5,7 +5,7 @@
 - 📫 E-mail: emanoelhenrique200200@gmail.com
  ##
   
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/henriquebbb">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=henriquebbb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebbb&layout=compact&langs_count=3&theme=algolia"/>
