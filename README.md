@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/henriquebbb">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=henriquebbb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebbb&layout=compact&langs_count=16&theme=algolia"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebbb&layout=compact&langs_count=16&theme=algolia"/>
 </div>
   
   <div style="display: inline_block"><br>
