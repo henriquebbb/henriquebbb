@@ -3,11 +3,13 @@
 - 💻 Me aprofundando no estudo de Java, HTML5 entre outros. 
 - 🎓 Engenheiro de computação em formação.
 - 📫 E-mail: emanoelhenrique200200@gmail.com
+
+##
   
-<div style="display: inline_block" align="center">
+<div align="center">
   <a href="https://github.com/henriquebbb">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=henriquebbb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebbb&layout=compact&langs_count=3&theme=algolia"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebbb&layout=compact&langs_count=5&theme=algolia"/></a>
 </div>
   
   <div style="display: inline_block"><br>
