@@ -1,7 +1,7 @@
 ## Eu sou Henrique👋
 - 👔 Atualmente trabalhando como Service desk.
 - 💻 Me aprofundando no estudo de Java, HTML5 entre outros. 
-- 🎓 Engenheiro de computação em formação.
+- 🎓 Engenheiro de computação.
 - 📫 E-mail: emanoelhenrique200200@gmail.com
 
 ##
